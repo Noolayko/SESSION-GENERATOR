@@ -57,21 +57,21 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by WASI TECH*
+*_Pair Code Connected by DON HACKER*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN WASI MD 』*
+║ *『 WOW YOU'VE CHOSEN FI BOT 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@wasitech1_
-║❒ *Owner:* _https://wa.me/923192173398_
-║❒ *Repo:* _https://github.com/wasixd/WASI-MD
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *Plugins:* _https://github.com/wasixd/WASI-MD-PLUGINS_
+║❒ *Ytube:* _youtube.com/@donhacker_
+║❒ *Owner:* _https://wa.me/256742366969_
+║❒ *Repo:* _https://github.com/Noolayko/FI-BOT-UGANDA-
+║❒ *WaGroup:* _https://https://chat.whatsapp.com/ITMPi6M3UIt3HGwQEeG90k
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VajvAYL7YScvdKu2dA1r
+║❒ *Plugins:* _https://github.com/Noolayko/FI-BOT-UGANDA-PLUGINS_
 ╚════════════════════════╝
 _____________________________________
 
@@ -98,3 +98,4 @@ _Don't Forget To Give Star To My Repo_`
     return await GIFTED_MD_PAIR_CODE()
 });
 module.exports = router
+        
