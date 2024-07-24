@@ -1,14 +1,14 @@
 {
-    "description": "wasisession",
-    "main": "./itxxwasi.js",
+    "description": "fisession",
+    "main": "./itxxfi.js",
   "engines" : { 
     "npm" : ">=9.7.2",
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node itxxwasi.js"
+    "start": "node itxxfi.js"
   },
-  "author": "WasiTech",
+  "author": "DON HACKER",
   "license": "GPL-3.0 license",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.5.0",
